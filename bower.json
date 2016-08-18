@@ -1,0 +1,22 @@
+{
+  "name": "proper-piwik-js",
+  "homepage": "https://github.com/propersoft-cn/proper-piwik-js",
+  "authors": [
+    "shendongsheng <shendongsheng@propersoft.cn>"
+  ],
+  "description": "proper soft's piwik.js",
+  "main": "./proper-piwik.js",
+  "version":"2.16.1",
+  "keywords": [
+    "proper",
+    "piwik"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
